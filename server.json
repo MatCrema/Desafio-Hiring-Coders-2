@@ -1,0 +1,60 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/f/mfl-b2dn-18npa-r1.jpg",
+            "name": "Ventoinha Cooler Master",
+            "description": "120MM ARGB",
+            "price": "R$85,60"
+        },
+        {
+            "id": 2,
+            "photo": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/9/8/981-0009772.jpg",
+            "name": "Headset Gamer Logitech",
+            "description": "G335 PRETO",
+            "price": "R$499,00"
+        },
+        {
+            "id": 3,
+            "photo": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/t/g/tgt-spwtkl-blobo1.jpg",
+            "name": "Teclado Mecanico",
+            "description": "TGT Spawn Tournament",
+            "price": "R$215,00"
+        },
+        {
+            "id": 4,
+            "photo": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/m/l/mlw-d24m-a18pc-rw2.jpg",
+            "name": "Water Cooler",
+            "description": "Cooler Master Masterliquid",
+            "price": "R$500,00"
+        },
+        {
+            "id": 5,
+            "photo": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/p/g/pg-hx5-w011.jpg",
+            "name": "Gabinete Gamer",
+            "description": "HX500 White",
+            "price": "R$300,00"
+        },
+        {
+            "id": 6,
+            "photo": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/v/g/vg27wq1b5.jpg",
+            "name": "Monitor Gamer",
+            "description": "Asus TUF 27\"",
+            "price": "R$2500,00"
+        },
+        {
+            "id": 7,
+            "photo": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/p/g/pgm-p702-rgb7.jpg",
+            "name": "Mouse Gamer",
+            "description": "P702 RGB 12000DPI",
+            "price": "R$169,90"
+        },
+        {
+            "id": 8,
+            "photo": "https://media.pichau.com.br/media/catalog/product/cache/2f958555330323e505eba7ce930bdf27/9/8/988-000089.jpg",
+            "name": "Microfone Condensador",
+            "description": "Blue Yeti Nano Vivid Blue",
+            "price": "R$639,90"
+        }
+    ]
+}
